@@ -1,13 +1,12 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Disabled Coding'
-description 'A casino resource for which you do not have to sell a kidney for'
-version '1.0.0'
-repository 'https://github.com/Disabled-Coding/dc-casino'
+author 'Disabled Coding | Edited by Nate'
+description 'Casino Resource converted to ESX Legacy'
+version '1.0.1'
+repository 'https://github.com/gomez-deving/dc-casino'
 
 shared_scripts {
-    '@ox_lib/init.lua',
     'config.lua'
 }
 
